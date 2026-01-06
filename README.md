@@ -13,7 +13,10 @@ To generate csv files for the interviews (expected m4a files from zoom interview
 Note: Once the script is executed, the files in the input folder and intermediate folder are deleted once the features are extracted. 
    
 2.  Embedding from whisper features
+To extract features from whisper, it is necessary to install the following libraries
 
+
+In python environment 3.11 or 3.12:
 
 
 **Instructions**
